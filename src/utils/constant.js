@@ -25,3 +25,5 @@ export const NETFLIX = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh
 
 
 export const YOUTUBE = "";
+
+export const netflixDes = "Netflix GPT is a web application built using React.js that leverages the power of OpenAI's GPT (Generative Pre-trained Transformer) model to provide personalized movie recommendations to users";
