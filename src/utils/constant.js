@@ -16,3 +16,6 @@ export const REDUX_LOGO = "https://redux.js.org/img/redux.svg";
 export const TailWind_LOGO = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rysYUqhzIGE1Btu2lJP07JafrqgdnSLclV9YyrSxJWWuiK2pGTYNM1R034Oq4DU5Ojg&usqp=CAU";
 
 export const HAND ="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f44b-1f3fb.svg";
+
+
+export const FOOD_APP = "https://photos.fife.usercontent.google.com/pw/ABLVV8484E3lMKHfIQd8vFLnubm19l6pkSwAm_jTmFkorDndkKWMiT2fUiKquQ=w1901-h858-s-no-gm?authuser=4";
