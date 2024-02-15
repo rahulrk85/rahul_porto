@@ -19,3 +19,9 @@ export const HAND ="https://images.emojiterra.com/google/noto-emoji/unicode-15.1
 
 
 export const FOOD_APP = "https://photos.fife.usercontent.google.com/pw/ABLVV8484E3lMKHfIQd8vFLnubm19l6pkSwAm_jTmFkorDndkKWMiT2fUiKquQ=w1901-h858-s-no-gm?authuser=4";
+
+export const NETFLIX = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThsREG3OWVaxGBI44ZHEt-1jMKQKJHWygV0Q&usqp=CAU";
+
+
+
+export const YOUTUBE = "";
