@@ -18,8 +18,6 @@ export const TailWind_LOGO = "https://encrypted-tbn0.gstatic.com/images?q=tbn:AN
 export const HAND ="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f44b-1f3fb.svg";
 
 
-export const FOOD_APP = "https://photos.fife.usercontent.google.com/pw/ABLVV8484E3lMKHfIQd8vFLnubm19l6pkSwAm_jTmFkorDndkKWMiT2fUiKquQ=w1901-h858-s-no-gm?authuser=4";
-
 export const NETFLIX = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThsREG3OWVaxGBI44ZHEt-1jMKQKJHWygV0Q&usqp=CAU";
 
 
@@ -37,4 +35,12 @@ export const Netflix_code = "https://github.com/rahulrk85/Netflix-GPT.git";
 export const Youtube_link = "https://youtube-clone-two-peach.vercel.app/";
 
 export const Youtube_code = "https://github.com/rahulrk85/youtube_clone.git";
+
+export const Food_Photo = "https://i.ibb.co/rMbnjtL/food.png";
+
+export const Food_link = "https://foodifyme.netlify.app/";
+
+export const Food_code = "https://github.com/rahulrk85/Food-app.git";
+
+export const Food_des = "Dynamic web application built entirely using React.js. This project simulates a food ordering platform where users can explore a variety of dishes, place orders, and customize their meals, all within a seamless and intuitive user interface.";
 
