@@ -24,6 +24,17 @@ export const NETFLIX = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh
 
 
 
-export const YOUTUBE = "";
+export const YOUTUBE = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjef7r8uNXc4HdRmIT5cLtgSVrO52sbVWbQ&usqp=CAU";
 
 export const netflixDes = "Netflix GPT is a web application built using React.js that leverages the power of OpenAI's GPT (Generative Pre-trained Transformer) model to provide personalized movie recommendations to users";
+
+export const YouDes = "ReactTube is a comprehensive web application developed using React.js, aimed at replicating the core functionalities of the popular video-sharing platform, YouTube.";
+
+export const Netflix_link ="https://netflixgpt-phi.vercel.app/";
+
+export const Netflix_code = "https://github.com/rahulrk85/Netflix-GPT.git";
+
+export const Youtube_link = "https://youtube-clone-two-peach.vercel.app/";
+
+export const Youtube_code = "https://github.com/rahulrk85/youtube_clone.git";
+
