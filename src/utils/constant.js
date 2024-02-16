@@ -44,3 +44,11 @@ export const Food_code = "https://github.com/rahulrk85/Food-app.git";
 
 export const Food_des = "Dynamic web application built entirely using React.js. This project simulates a food ordering platform where users can explore a variety of dishes, place orders, and customize their meals, all within a seamless and intuitive user interface.";
 
+export const LinkedIn = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvMWbZhdNj7pmq_kskZnAZrFV25oHAcox6g&usqp=CAU";
+
+export const Github = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCHxR2C_q8ugOMQzSmMovD3ni-z1QqTopSjg&usqp=CAU"; 
+
+export const git_profile = "https://github.com/rahulrk85";
+
+export const linkedIn_profile = "https://www.linkedin.com/in/rahul-kulkarni-9229a6293/"; 
+
