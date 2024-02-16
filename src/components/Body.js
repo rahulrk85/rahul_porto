@@ -6,9 +6,9 @@ import Projects from './Projects'
 
 const Body = () => {
   return (
-    <div>
+    <div className='relative dark:text-white dark:bg-black'>
       <div className='h-screen'>
-        <div className='flex justify-center mt-32 mr-5'>
+        <div className='flex justify-center pt-32 mr-5'>
           <Inrto/>
           <div className='profile mt-6'>
             <img className='' alt='profile' src={PROFILE}/>
