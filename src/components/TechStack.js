@@ -3,16 +3,16 @@ import { CSS_LOGO, HTML, JAVA_LOGO, JS_LOGO, REACT_LOGO, REDUX_LOGO, TailWind_LO
 
 const TechStack = () => {
   return (
-    <div className='flex justify-center font-black mt-10 ml-7'>
-        <h1 className='mr-10 mt-1'>Tech Stack</h1>
+    <div className='flex justify-center font-black mt-24 md:mt-10 ml-32 md:ml-7 w-60 md:w-auto flex-wrap'>
+        <h1 className='mr-10 mt-1 mb-6 md:mb-0'>Tech Stack</h1>
         <p className='text-2xl mr-4'>|</p>
-        <img className='w-10 mx-4' alt='logo' src={HTML}/>
-        <img className='w-10 mx-4' alt='logo' src={CSS_LOGO}/>
-        <img className='w-10 mx-4' alt='logo' src={JS_LOGO}/>
-        <img className='w-10 mx-4' alt='logo' src={REACT_LOGO}/>
-        <img className='w-10 mx-4' alt='logo' src={REDUX_LOGO}/>
-        <img className='w-10 mx-4' alt='logo' src={TailWind_LOGO}/>
-        <img className='w-10 mx-4' alt='logo' src={JAVA_LOGO}/>
+        <img className='w-10 mx-4 mb-6 md:mb-0' alt='logo' src={HTML}/>
+        <img className='w-10 mx-4 mb-6 md:mb-0' alt='logo' src={CSS_LOGO}/>
+        <img className='w-10 mx-4 mb-6 md:mb-0' alt='logo' src={JS_LOGO}/>
+        <img className='w-10 mx-4 mb-6 md:mb-0' alt='logo' src={REACT_LOGO}/>
+        <img className='w-10 mx-4 mb-6 md:mb-0' alt='logo' src={REDUX_LOGO}/>
+        <img className='w-10 mx-4 mb-6 md:mb-0' alt='logo' src={TailWind_LOGO}/>
+        <img className='w-10 mx-4 mb-6 md:mb-0' alt='logo' src={JAVA_LOGO}/>
 
        
     </div>

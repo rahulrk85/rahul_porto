@@ -9,7 +9,7 @@ const ProjectCards = ({title,overview,src,link,code}) => {
 
 
   return (
-    <div className='flex grid-flow-col border shadow-xl rounded-xl mb-8'>
+    <div className='flex grid-flow-col border shadow-xl rounded-xl mb-8 '>
         <div className='col-span-6 w-[1200px] my-7 ml-2 p-4'>
             <img className='rounded-lg' alt='proImg' src={src}/>
         </div>
