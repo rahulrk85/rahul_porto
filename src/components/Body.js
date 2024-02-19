@@ -1,22 +1,19 @@
 import React from 'react'
-import {PROFILE } from '../utils/constant'
 import TechStack from './TechStack'
 import Inrto from './Inrto'
 import Projects from './Projects'
+import Profile from './Profile'
 
 const Body = () => {
   return (
-    <div className='relative dark:text-white dark:bg-black'>
-      <div className='h-screen'>
-        <div className='flex justify-center pt-60 md:pt-32 mr-5'>
+    <div className='relative dark:text-white dark:bg-black pt-36 md:pt-0'>
+      <div className='h-screen w-screen md:w-auto'>
+        <div className='md:flex justify-center pt-6 md:pt-32 mr-5'>
           <Inrto/>
-          <div className='profile mt-6'>
-            <img className='' alt='profile' src={PROFILE}/>
-          </div>
+          <Profile/>
+          </div> 
+          <TechStack/>
         </div>
-        
-              <TechStack/>
-      </div>
       <div className='flex justify-center'>
         <Projects/>
       </div>
