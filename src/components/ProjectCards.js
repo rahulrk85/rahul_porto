@@ -12,12 +12,12 @@ const ProjectCards = ({ title, overview, src, link, code }) => {
         <div className="flex justify-center text-white">
           <a href={link}>
             <button className="py-2 mr-10 px-5 -mt-1 bg-black dark:bg-gray-200 dark:text-black rounded-full hover:bg-opacity-70 dark:hover:opacity-50">
-              Code 🚀
+              Code 🔗
             </button>
           </a>
           <a href={code}>
             <button className="py-2 px-3 -mt-1 bg-black rounded-2xl hover:bg-opacity-70 dark:bg-gray-200 dark:text-black dark:hover:opacity-50">
-              Live Demo 🔗
+              Live Demo 🚀
             </button>
           </a>
         </div>

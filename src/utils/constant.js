@@ -1,4 +1,4 @@
-export const PROFILE = "https://lh3.googleusercontent.com/a/ACg8ocLZq1ncAd9UVeZY68z5AVLj5DVmVBr7Yn6iNQjOQlLuIF8=s360-c-no";
+export const PROFILE = "https://media.licdn.com/dms/image/v2/D5603AQG7tvxhRSEJMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718290828574?e=1738800000&v=beta&t=Gov145G0sA9rY-LZGgkg_YJw1npETVh-qe0Wf00u9oc";
 
 export const HTML = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5aSBafJ861U5BSgiROavu14eKayyGWltXZAmNIPVL6qNn7KmhrBA9FG1p2QqC89j2ATs&usqp=CAU";
 
@@ -22,7 +22,7 @@ export const NETFLIX = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh
 
 
 
-export const YOUTUBE = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjef7r8uNXc4HdRmIT5cLtgSVrO52sbVWbQ&usqp=CAU";
+export const YOUTUBE = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2SvYeLGwdWwpk_aTH-vTDn5hxKj7hTa1kVA&s";
 
 export const netflixDes = "Netflix GPT is a web application built using React.js that leverages the power of OpenAI's GPT (Generative Pre-trained Transformer) model to provide personalized movie recommendations to users";
 
@@ -42,6 +42,12 @@ export const Food_link = "https://foodifyme.netlify.app/";
 
 export const Food_code = "https://github.com/rahulrk85/Food-app.git";
 
+export const E_des = "Developed a responsive e-commerce website using ReactJS, featuring seamless navigation, dynamic product displays, and state management with Redux. Integrated payment gateway and API for real-time data. Styled with Tailwind CSS for a modern UI."
+
+export const E_link = "https://rkecommerce.ccbp.tech/login"
+
+export const E_photo = "https://assets.ccbp.in/frontend/react-js/nxt-trendz-login-img.png"
+
 export const Food_des = "Dynamic web application built entirely using React.js. This project simulates a food ordering platform where users can explore a variety of dishes, place orders, and customize their meals, all within a seamless and intuitive user interface.";
 
 export const LinkedIn = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvMWbZhdNj7pmq_kskZnAZrFV25oHAcox6g&usqp=CAU";
@@ -51,4 +57,6 @@ export const Github = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCH
 export const git_profile = "https://github.com/rahulrk85";
 
 export const linkedIn_profile = "https://www.linkedin.com/in/rahul-kulkarni-9229a6293/"; 
+
+
 
