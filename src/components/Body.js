@@ -3,6 +3,7 @@ import TechStack from './TechStack'
 import Inrto from './Inrto'
 import Projects from './Projects'
 import Profile from './Profile'
+import Footer from './Footer'
 
 const Body = () => {
   return (
@@ -17,10 +18,7 @@ const Body = () => {
       <div className='flex justify-center'>
         <Projects/>
       </div>
-
-
-
-
+      <Footer/>
     </div>
   )
 }

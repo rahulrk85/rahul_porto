@@ -42,3 +42,25 @@
   -ms-overflow-style: none; /* Internet Explorer */
   scrollbar-width: none; /* Firefox */
 }
+
+.four{
+    background-color: #B4E380;
+}
+
+.three{
+    background-color: #88D66C;
+}
+
+.two{
+    background-color: #CBE2B5;
+}
+
+.one{
+    background-color: #91DDCF;
+}
+.bgdarkcolor{
+    background-color: #311D3F;
+}
+.bgcolor{
+    background-color: #C4DFDF;
+}

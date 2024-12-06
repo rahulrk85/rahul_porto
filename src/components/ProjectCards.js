@@ -1,8 +1,9 @@
 import React from "react";
+import "../App.css"
 
-const ProjectCards = ({ title, overview, src, link, code }) => {
+const ProjectCards = ({ title, overview, src, link, code, color }) => {
   return (
-    <div className="flex grid-flow-col border shadow-xl rounded-xl mb-8 w-full md:w-auto">
+    <div className={`flex grid-flow-col border shadow-xl rounded-xl mb-8 w-full md:w-auto ${color} text-black`}>
       <div className="col-span-6 w-[1200px] my-7 ml-2 p-4">
         <img className="rounded-lg" alt="proImg" src={src} />
       </div>

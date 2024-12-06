@@ -13,7 +13,7 @@ export const JAVA_LOGO = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gc
 
 export const REDUX_LOGO = "https://redux.js.org/img/redux.svg";
 
-export const TailWind_LOGO = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rysYUqhzIGE1Btu2lJP07JafrqgdnSLclV9YyrSxJWWuiK2pGTYNM1R034Oq4DU5Ojg&usqp=CAU";
+export const TailWind_LOGO = "https://png.pngtree.com/png-clipart/20230915/original/pngtree-template-of-logo-with-blue-waves-vector-illustration-available-on-white-png-image_12198131.png";
 
 export const HAND ="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f44b-1f3fb.svg";
 
@@ -50,9 +50,11 @@ export const E_photo = "https://assets.ccbp.in/frontend/react-js/nxt-trendz-logi
 
 export const Food_des = "Dynamic web application built entirely using React.js. This project simulates a food ordering platform where users can explore a variety of dishes, place orders, and customize their meals, all within a seamless and intuitive user interface.";
 
-export const LinkedIn = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvMWbZhdNj7pmq_kskZnAZrFV25oHAcox6g&usqp=CAU";
+export const LinkedIn = "https://img.icons8.com/?size=100&id=16166&format=png&color=000000";
 
-export const Github = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCHxR2C_q8ugOMQzSmMovD3ni-z1QqTopSjg&usqp=CAU"; 
+export const Github = "https://img.icons8.com/?size=100&id=62856&format=png&color=000000"; 
+
+export const Instagram = "https://img.icons8.com/?size=100&id=32320&format=png&color=000000"; 
 
 export const git_profile = "https://github.com/rahulrk85";
 

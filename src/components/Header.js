@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
+import "../App.css"
 
 const Header = () => {
 
@@ -11,7 +12,7 @@ const Header = () => {
 
 
   return (
-    <div className=' flex justify-between py-8 px-4 font-bold dark:bg-black dark:text-white '>
+    <div className=' flex justify-between py-8 px-4 font-bold dark:bg-black dark:text-white bgcolor'>
         <Link to="/"><h2>Rahul Kulkarni</h2></Link>
         <ul className='flex'>
             <Link to="/"><li className='hidden md:inline-block px-4'>Home</li></Link>
