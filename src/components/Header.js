@@ -17,7 +17,7 @@ const Header = () => {
         <ul className='flex'>
             <Link to="/"><li className='md:inline-block px-4'>Home</li></Link>
             <Link to='/about'><li className='px-4 md:inline-block'>About</li></Link>
-            <Link to="/Images"><li className='px-4 md:inline-block bg-gradient-to-r from-red-900 via-black-400 to-blue-700 inline-block text-transparent bg-clip-text'>Hobbies</li></Link>
+            <Link to="/Images"><li className='px-4 md:inline-block bg-gradient-to-r from-red-900 via-black-400 to-blue-700 inline-block text-transparent bg-clip-text'>Photography</li></Link>
             <button onClick={handleClick} className='bg-black dark:bg-white rounded-md shadow-lg'>
               <svg class="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" clip-rule="evenodd" d="M17.715 15.15A6.5 6.5 0 0 1 9 6.035C6.106 6.922 4 9.645 4 12.867c0 3.94 3.153 7.136 7.042 7.136 3.101 0 5.734-2.032 6.673-4.853Z" class="fill-transparent"></path>
