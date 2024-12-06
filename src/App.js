@@ -8,7 +8,6 @@ import About from './components/About';
 import NotFound from './components/NotFound';
 
 function App() {
-  document.documentElement.classList.add("dark");
   return (
       <BrowserRouter>
       <Header />

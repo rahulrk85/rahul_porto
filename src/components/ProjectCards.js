@@ -3,8 +3,8 @@ import "../App.css"
 
 const ProjectCards = ({ title, overview, src, link, code, color }) => {
   return (
-    <div className={`flex grid-flow-col border shadow-xl rounded-xl mb-8 w-full md:w-auto ${color} text-black`}>
-      <div className="col-span-6 w-[1200px] my-7 ml-2 p-4">
+    <div className={`flex flex-col md:flex-row border shadow-xl rounded-xl mb-8 w-3/4 md:w-auto ${color} text-black`}>
+      <div className="w-auto md:w-[1200px] my-7 ml-2 p-4">
         <img className="rounded-lg" alt="proImg" src={src} />
       </div>
       <div className="col-span-6 my-4 p-4 font-semibold">

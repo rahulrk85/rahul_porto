@@ -6,15 +6,20 @@ import Profile from './Profile'
 import Footer from './Footer'
 
 const Body = () => {
+  // document.documentElement.classList.add("dark");
+  const root = document.getElementById("root")
+  root.classList.add("dark")
   return (
-    <div className='relative dark:text-white dark:bg-black pt-36 md:pt-0'>
-      <div className='h-screen w-screen md:w-auto'>
-        <div className='md:flex justify-center pt-6 md:pt-32 mr-5'>
+    <div className='relative dark:text-white dark:bg-black pt-36 md:pt-0  w-full'>
+      <div className='h-full w-full md:w-auto'>
+        <div className='flex justify-center pt-6 md:pt-32 mr-5'>
           <Inrto/>
           <Profile/>
-          </div> 
+        </div> 
+        <div className='flex md:inline'>
           <TechStack/>
         </div>
+      </div>
       <div className='flex justify-center'>
         <Projects/>
       </div>
