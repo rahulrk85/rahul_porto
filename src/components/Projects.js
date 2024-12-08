@@ -4,7 +4,7 @@ import { E_des, E_link, E_photo, Food_Photo, Food_code, Food_des, Food_link, NET
 
 const Projects = () => {
   return (
-    <div className='w-full md:w-1/2 md:ml-16 mt-20 md:-mt-30 rounded-lg'>
+    <div className='w-auto md:w-1/2 md:ml-16 mt-20 md:mt-[300px] rounded-lg'>
       <div className='items-center justify-center flex flex-col md:inline'>
         <h1 className='font-semibold text-3xl md:text-6xl mt-20 md:-mt-12 text-center pb-10 font-serif'>My Projects</h1>
         <ProjectCards title={"Ecommerce"} overview={E_des} src={E_photo} link={Food_code} code={E_link} color="two"/>

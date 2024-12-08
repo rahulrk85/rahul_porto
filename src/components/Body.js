@@ -10,7 +10,7 @@ const Body = () => {
   const root = document.getElementById("root")
   root.classList.add("dark")
   return (
-    <div className='relative dark:text-white dark:bg-black pt-36 md:pt-0  w-full'>
+    <div className='relative dark:text-white dark:bg-black pt-36 md:pt-0   w-auto'>
       <div className='h-full w-full md:w-auto'>
         <div className='flex justify-center pt-6 md:pt-32 mr-5'>
           <Inrto/>
